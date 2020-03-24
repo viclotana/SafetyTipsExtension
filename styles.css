@@ -62,4 +62,9 @@
     #litter {
     	font-size: 105px;
         font-weight: 300;
-    }
+	}
+	footer {
+		margin-top: 55%;
+		text-align: right;
+		margin-right: 1%;
+	}
