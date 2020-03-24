@@ -37,8 +37,8 @@ data =[
     },
     {
         "suggestion":"7",
-        "heading":"Vitamins and Supplements for immunity",
-        "paragraph":"Include essential vitamin supplements like vitamin B12 with Methylcobalamin, vitamin D3, vitamin C and turmeric in your diet. Make sure you have one dose of each every single day to restore and build your immunity."
+        "heading":"Vitamins and Supplements",
+        "paragraph":"Include essential vitamin supplements like vitamin B12 with Methylcobalamin, vitamin C and turmeric in your diet. Make sure you have one dose of each every single day to restore and build your immunity."
 
     },
     {
@@ -50,7 +50,7 @@ data =[
     {
         "suggestion":"9",
         "heading":"Show Empathy",
-        "paragraph":"All of us need to stay home and be safe. The same applies to your house-helps. Give them day-offs to stay back home and return to work once the situation gets better. Empathize with things around. Try to help them with basic supplies for their health and safety. "
+        "paragraph":"All of us need to stay home and be safe. Give your house-helps day-offs to stay back home and return to work once the situation gets better. Try to help them with basic supplies for their health and safety. "
 
     },
     {
@@ -85,7 +85,7 @@ data =[
     },
     {
         "suggestion":"15",
-        "heading":"Do not eat  outside",
+        "heading":"Do not eat outside",
         "paragraph":"No matter how much your taste buds are craving food that is not homemade. It’s crucial to not order, eat or intake any outside food. You never know who is cooking the meal and how is it being cooked."
 
     },
