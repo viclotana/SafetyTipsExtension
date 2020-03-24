@@ -1,5 +1,5 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "2020 Safety Tips",
     "description": "This is a list of  safety precautions to take against the spread of pandemics like COVID-19",
     "version": "1.0.0",
