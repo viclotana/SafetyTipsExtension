@@ -1,0 +1,15 @@
+{
+    "manifest_version": 1,
+    "name": "2020 Safety Tips",
+    "description": "This is a list of  safety precautions to take against the spread of pandemics like COVID-19",
+    "version": "1.0.0",
+    "author": "Nwose Lotanna",
+   "browser_action": {
+      "default_icon": "tab-icon.jpg",
+      "default_title": "Safety Tips"
+    },
+   "chrome_url_overrides" : {
+     "newtab": "newtab.html"
+   },
+    "permissions": ["activeTab"]
+   }

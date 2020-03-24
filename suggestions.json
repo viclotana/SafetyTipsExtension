@@ -1,0 +1,92 @@
+data =[
+    {
+        "suggestion":"1",
+        "heading":"Be a full person",
+        "paragraph":" not define yourself solely by motherhood. Make sure to get a job you love. Never apologize for working, loving what you do is a great gift to give your child."
+
+    },
+    {
+        "suggestion":"2",
+        "heading":"Do it together",
+        "paragraph":"Two adults brought a child into this world so upbringing should be a joint effort.Share child care'equally', this depends on you both and paying equal attention to each person's needs. Always Reject the language of help, your husband is not helping you by caring for his child."
+
+    },
+    {
+        "suggestion":"3",
+        "heading":"Teach her that gender-roles are absolute nonsense",
+        "paragraph":"Do not ever tell her that she should or should not do something because she is a girl. See your child as an individual, not as a girl who should be a certain way. If we do not place the straitjacket of gender-roles on young children, we give them space to reach their full potential."
+
+    },
+    {
+        "suggestion":"4",
+        "heading":"Beware of Feminism Lite",
+        "paragraph":"It is the idea of conditional female equality, you either believe in the full equality of men and women or you do not. It promotes the idea that men are naturally superior but should be expected to 'treat women well'. There must be more than male benevolence as a basis for a woman's well-being."
+
+    },
+    {
+        "suggestion":"5",
+        "heading":"Teach her to read, to love books",
+        "paragraph":"The best way is by being a casual example. Books will help her understand and question the world, help her express herself. I do not mean school books, I mean autobiographies, novels and history. If everything else fails, pay her to read"
+
+    },
+    {
+        "suggestion":"6",
+        "heading":"Teach her to question language",
+        "paragraph":"Language is the repository of our prejudices, beliefs and assumptions. Decide for yourself things you will not say to your child, what you say to your child matters. Tell her that women actually do not need to be championed and revered, they just need to be treated as equal human beings"
+
+    },
+    {
+        "suggestion":"7",
+        "heading":"Never speak of marriage as an achievement",
+        "paragraph":"We condition girls to aspire towards marriage but not boys, so there is already a terrible imbalance at the start. The girls grow to be pre-occupied with marriage but the boys do not grow the same way, making unions uneven. Find a way to make it clear to her that marriage is not an achievement, it can be happy or unhappy but not an achievement."
+
+    },
+    {
+        "suggestion":"8",
+        "heading":"Teach her to reject likeability",
+        "paragraph":"Her job is not to make herself likeable, her job is to be her full self, honest and aware of equal humanity of other people. Teach her honesty, kindness and bravity, encourage her to speak her mind always."
+
+    },
+    {
+        "suggestion":"9",
+        "heading":"Give her a sense of identity",
+        "paragraph":"Teach her about her Igbo culture, selectively. Teach her to embrace the beautiful parts of the culture, and to reject the parts that are not. Be deliberate about showing her the enduring beauty and resilience of Africans and black people. "
+
+    },
+    {
+        "suggestion":"10",
+        "heading":"Be deliberate about how you engage with her and her appearance",
+        "paragraph":"Encourage her participation in sports, teach her to be physically active. If she likes makeup, let her wear it, if she does not, let her be. Never ever link her appearance with morality."
+
+    },
+    {
+        "suggestion":"11",
+        "heading":"Teach her to question culture's use of biology as 'reasons' for social norms",
+        "paragraph":"She needs to understand that it is not okay to explain male promiscuity with biology and not womens'. Teach her that biology is interesting but she should not accept it for any social norm. Social norms were created by humans and so can change."
+
+    },
+    {
+        "suggestion":"12",
+        "heading":"Talk to her about sex and start early",
+        "paragraph":"Be honest and explain to her that it is not merely a controlled act of reproduction. Nor is it an 'only in marriage' act, this is disingenuous, never link sexuality and shame. Tell her that her body belongs to her and her alone, that you think its best to wait till adulthood to have sex."
+
+    },
+    {
+        "suggestion":"13",
+        "heading":"Romance will happen, so be on board",
+        "paragraph":"Teach her that love is not only to give, but to take. Teach her that it is not a man's role to provide, but the role of whoever can provide to provide in a relationship Teach her to show love, value, appreciation and to expect such in return."
+
+    },
+    {
+        "suggestion":"14",
+        "heading":"In teaching about oppression, do not turn the oppressed to saints",
+        "paragraph":"Saintlessness is not a requirement for dignity. Teach her that female misogyny exists and show her examples. Also, clearly explain to her that all women should be feminists, but not all women are."
+
+    },
+    {
+        "suggestion":"15",
+        "heading":"Teach her about difference",
+        "paragraph":"She must know and understand that people walk different path in life. Teach her that so long as the paths do not harm anyone, she must respect people's decisions. Teach her that we do not and cannot know everything, and that is fine."
+
+    }
+];
