@@ -1,32 +1,32 @@
 data =[
     {
         "suggestion":"1",
-        "heading":"Be a full person",
-        "paragraph":" not define yourself solely by motherhood. Make sure to get a job you love. Never apologize for working, loving what you do is a great gift to give your child."
+        "heading":"Social Distancing",
+        "paragraph":"It's time to practice social distancing, which simply implies to staying at home. Avoid coming in contact with people who are sick, even if they are not infected with the virus."
 
     },
     {
         "suggestion":"2",
-        "heading":"Do it together",
-        "paragraph":"Two adults brought a child into this world so upbringing should be a joint effort.Share child care'equally', this depends on you both and paying equal attention to each person's needs. Always Reject the language of help, your husband is not helping you by caring for his child."
+        "heading":"6-feet Distancing",
+        "paragraph":"Find anyone coughing, sneezing; maintain a six-foot distance. Health experts believe that respiratory secretions from Covid-19 can't travel beyond the aforesaid distance."
 
     },
     {
         "suggestion":"3",
-        "heading":"Teach her that gender-roles are absolute nonsense",
-        "paragraph":"Do not ever tell her that she should or should not do something because she is a girl. See your child as an individual, not as a girl who should be a certain way. If we do not place the straitjacket of gender-roles on young children, we give them space to reach their full potential."
+        "heading":"Wash your hands",
+        "paragraph":"Wash your hands frequently with soap and water for at least 20 seconds. Keep your hands sanitized (use sanitizer with at least 60 percent alcohol) as much as possible."
 
     },
     {
         "suggestion":"4",
-        "heading":"Beware of Feminism Lite",
-        "paragraph":"It is the idea of conditional female equality, you either believe in the full equality of men and women or you do not. It promotes the idea that men are naturally superior but should be expected to 'treat women well'. There must be more than male benevolence as a basis for a woman's well-being."
+        "heading":"Cover It!",
+        "paragraph":"Use a tissue or napkin to cover your mouth every time you sneeze or cough."
 
     },
     {
         "suggestion":"5",
-        "heading":"Teach her to read, to love books",
-        "paragraph":"The best way is by being a casual example. Books will help her understand and question the world, help her express herself. I do not mean school books, I mean autobiographies, novels and history. If everything else fails, pay her to read"
+        "heading":"Clean Everything",
+        "paragraph":"Disinfect everything that you touch every frequently. From doorknobs, lights, handles, surfaces, TV remotes, drawers, washbasin to toilets, make sure everything is clean."
 
     },
     {
